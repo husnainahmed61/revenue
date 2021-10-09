@@ -3,7 +3,8 @@
 
 clone this Repo in Xampp->htdocs Folder with this command { git clone https://github.com/husnainahmed61/revenue.git}
 
-afer cloning use 
+afer cloning write commmand 
+->
 cd revenue 
 
 now you are in project directory
